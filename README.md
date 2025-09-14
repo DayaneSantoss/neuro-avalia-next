@@ -1,4 +1,4 @@
-# Sistema de Apoio à Avaliação Psicológica e Psicopedagógica
+# Sistema de Apoio à identificação de dificuldades e transtornos - Facilitando a aplicação de testes e análise de dados
 
 Este projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** com o objetivo de otimizar e digitalizar o processo de avaliação psicológica e psicopedagógica, permitindo que profissionais registrem, organizem e gerem relatórios de forma prática e segura.
 
