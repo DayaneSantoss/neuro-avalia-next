@@ -1,38 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sistema de Apoio à Avaliação Psicológica e Psicopedagógica
 
-## Getting Started
+Este projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** com o objetivo de otimizar e digitalizar o processo de avaliação psicológica e psicopedagógica, permitindo que profissionais registrem, organizem e gerem relatórios de forma prática e segura.
 
-First, run the development server:
+---
 
+## 🎯 Objetivo
+Disponibilizar uma plataforma que facilite:
+- A coleta de dados em **anamnese**  
+- O registro de **instrumentos/testes aplicados**  
+- A elaboração de **relatórios personalizados**  
+
+---
+
+## ⚙️ Funcionalidades
+- 📋 **Formulário de anamnese dinâmico** com perguntas configuráveis e exportação em PDF  
+- 📝 **Relatório de avaliação** com editor de texto, sugestões automáticas de conteúdo e exportação em PDF  
+- 🧩 **Seleção e registro** de instrumentos/testes aplicados  
+- 📂 **Histórico de informações e relatórios por paciente**  
+- 🔒 **Armazenamento seguro** em banco de dados  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Frontend:** Next.js (React) + TailwindCSS  
+- **Geração de documentos:** @react-pdf/renderer  
+- **Editor de texto:** CKEditor 5  
+- **Banco de dados:** Supabase (PostgreSQL)  
+- **Backend / Server Actions:** Next.js Server Actions + Supabase  
+- **UI:** TailwindCSS + Shadcn UI  
+- **Ícones:** Lucide React  
+
+---
+
+## 🚀 Como executar
+
+Clone o repositório:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-
+git clone https://github.com/seu-usuario/seu-repositorio.git
