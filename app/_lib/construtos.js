@@ -1,0 +1,83 @@
+export const CONSTRUTOS = {
+  cognitivos: [
+    "Atenção Sustentada",
+    "Atenção Seletiva",
+    "Atenção Alternada",
+    "Atenção Dividida",
+    "Velocidade de Processamento",
+    "Memória de Trabalho",
+    "Memória de Curto Prazo",
+    "Memória de Longo Prazo",
+    "Memória Episódica",
+    "Memória Semântica",
+    "Funções Executivas",
+    "Raciocínio Lógico",
+    "Raciocínio Abstrato",
+    "Inteligência Fluida",
+    "Inteligência Cristalizada",
+    "Orientação Espacial",
+    "Habilidades Visuoconstrutivas",
+    "Habilidades Visuoespaciais",
+    "Habilidades Visuoperceptivas"
+  ],
+  linguagem: [
+    "Linguagem Receptiva",
+    "Linguagem Expressiva",
+    "Consciência Fonológica",
+    "Vocabulário",
+    "Nomeação Automática Rápida",
+    "Compreensão Auditiva",
+    "Compreensão Leitora",
+    "Produção Escrita",
+    "Fluência Verbal",
+    "Pragmática da Linguagem"
+  ],
+  academicos: [
+    "Leitura (decodificação)",
+    "Leitura (compreensão)",
+    "Escrita (ortográfica)",
+    "Escrita (discursiva)",
+    "Consciência Morfossintática",
+    "Cálculo Aritmético",
+    "Raciocínio Matemático",
+    "Resolução de Problemas Matemáticos",
+    "Noção de Quantidade",
+    "Habilidades Acadêmicas Gerais"
+  ],
+  motores: [
+    "Coordenação Motora Fina",
+    "Coordenação Motora Global",
+    "Praxia Motora",
+    "Praxia Visuoconstrutiva",
+    "Praxia Orofacial",
+    "Praxia Ideomotora",
+    "Velocidade Motora"
+  ],
+  emocionais: [
+    "Regulação Emocional",
+    "Reconhecimento de Emoções",
+    "Tolerância à Frustração",
+    "Impulsividade",
+    "Autoestima",
+    "Autoconceito",
+    "Ansiedade",
+    "Depressão",
+    "Estresse",
+    "Resiliência",
+    "Afetividade",
+    "Motivação Intrínseca",
+    "Motivação Extrínseca",
+    "Habilidades Sociais",
+    "Assertividade",
+    "Relações Interpessoais"
+  ],
+  funcionais: [
+    "Independência Funcional",
+    "Habilidades de Vida Diária",
+    "Consciência Corporal",
+    "Orientação Temporal",
+    "Organização da Rotina",
+    "Adaptabilidade"
+  ],
+  
+};
